@@ -1,4 +1,4 @@
-#Caldera API
+## Caldera API
 
 This project is a FastAPI service that exposes an endpoint to track the change in artifact size between GitHub releases, using Apache Airflow as an example repository.
 
